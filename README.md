@@ -1,2 +1,2 @@
 # makinglist
-code for list
+code for neopixel
